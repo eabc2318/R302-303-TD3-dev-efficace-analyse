@@ -1,5 +1,7 @@
 # R302-303-TD3-dev-efficace-analyse
 
+# Repo github concentrant mon travail sur le tp3
+
 memo multiplicité : 1 Truc A a combien de Truc B ?
 
 a,b,c
